@@ -1,0 +1,6 @@
+gfxwidth=64
+gfxheight=34
+npcblock=0
+speed=3,5
+height=32
+width=60

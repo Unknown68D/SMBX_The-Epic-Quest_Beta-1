@@ -1,0 +1,10 @@
+width=128
+gfxwidth=128
+height=128
+gfxheight=128
+playerblock=1
+playerblocktop=1
+npcblock=1
+npcblocktop=1
+frames=1
+nohurt=1
